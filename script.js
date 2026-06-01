@@ -15,7 +15,7 @@ const titles = {
 };
 
 const galleries = {
-  hengbase: ['01','02','03','04','05','06'].map(n => `assets/projects/hengbase/${n}.jpg`),
+  hengbase: ['05','02','03','04','01','06'].map(n => `assets/projects/hengbase/${n}.jpg`),
   coreform: Array.from({length: 11}, (_, i) => `assets/projects/coreform/${String(i + 1).padStart(2, '0')}.jpg`),
   librepad: ['01','02','03'].map(n => `assets/projects/librepad/${n}.jpg`),
   augmented: ['01','02','03','04','05','06'].map(n => `assets/projects/augmented-experts/${n}.jpg`)

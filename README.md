@@ -14,6 +14,8 @@ Static bilingual portfolio website for GitHub Pages.
 
 ## SEO checklist before publishing
 
+https://iprahin.github.io/
+
 After you know the final GitHub Pages URL or custom domain, update these in both `index.html` and `en.html`:
 
 1. Add an absolute canonical URL.
