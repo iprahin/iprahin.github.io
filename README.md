@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Igor Priakhin — portfolio website
 
 Static bilingual portfolio website for GitHub Pages.
@@ -21,3 +22,6 @@ After you know the final GitHub Pages URL or custom domain, update these in both
 4. Optionally add `sitemap.xml` with the final absolute URLs.
 
 No email is shown on the website. Contact is via LinkedIn only.
+=======
+# iprahin.github.io
+>>>>>>> e45abe96be0d08c33e8b788d8b7c48f312012b43
